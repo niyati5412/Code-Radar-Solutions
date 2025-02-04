@@ -4,7 +4,7 @@
     float s, p,product;
     scanf("%d%d",&s,&p);
     product = s*p;
-    printf("Sum: %d",product);
+    printf("Product: %d",product);
     return 0;
  }
 
