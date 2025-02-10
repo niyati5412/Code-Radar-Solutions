@@ -2,8 +2,8 @@
 int main(){
     int x;
     scanf("%d" ,&x);
-    if(x%5==0 && x%11==0){
-        print("Divisible\n");
+    if (x%5==0 && x%11==0){
+        printf("Divisible\n");
     }
     else{
         printf("Not Divisible\n");
