@@ -3,7 +3,7 @@ int main(){
     int num;
     scanf("%d",&num);
     if(x/2==0){
-    printf("Even");
+    printf("Even")
     }
     else{
         printf("Odd")
