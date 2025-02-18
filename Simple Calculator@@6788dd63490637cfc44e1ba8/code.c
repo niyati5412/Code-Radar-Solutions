@@ -19,7 +19,7 @@ int main(){
         printf("%d\n",a\b);
         break;
         default:
-        prinytf("Error\n");
+        printf("Error\n");
     }
     return 0;
 }
