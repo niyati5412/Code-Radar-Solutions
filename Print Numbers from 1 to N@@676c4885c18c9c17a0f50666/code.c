@@ -5,7 +5,7 @@ int main(){
   for(int i=1;i<N;i++){
     printf("%d\n",i);
   } 
-  if(N>){
+  if(N>0){
     printf("%d\n",N);
   }
   return 0;
